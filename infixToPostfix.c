@@ -1,3 +1,10 @@
+/* program : convert infix expression to postfix
+ * Author  : Dnyaneshwar Patil
+ * Input   : infix expression
+ * Output  : postfix expression
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
